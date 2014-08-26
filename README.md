@@ -13,3 +13,5 @@ https://docs.google.com/spreadsheets/d/1-12tp1mmg8Rj67TQDtx7k47Z53oYadX4hf1hynHE
 Roster: 
 https://docs.google.com/spreadsheets/d/19q0qK-QO7LxB6U6Ggpq_R8r-NvhTHIxSONXpN5kJXik/edit?usp=sharing
 
+Email 101: 
+https://docs.google.com/document/d/1jzW3bI87qHuhknSuyKorE8DXEJRgZwgPOWgVUUPLgws/edit?usp=sharing
